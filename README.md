@@ -5,4 +5,4 @@ I downloaded easytether (this was tested with the full version) and had to make 
 Note - this is a setup script after proper drivers are installed
 
 
-to use this script open terminal in the folder containing the script and `sudo ./internet_conn.sh` (no `` in the terminal btw)
+to use this script, download sh file and  open terminal in the folder containing the script and type `sudo ./internet_conn.sh` (no `` in the terminal btw)
