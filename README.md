@@ -6,3 +6,6 @@ Note - this is a setup script after proper drivers are installed
 
 
 to use this script, download sh file and  open terminal in the folder containing the script and type `sudo ./internet_conn.sh`
+
+
+I was also made aware that not all connections are called tun-easytether, please update script accordingly or reach out for assistance
